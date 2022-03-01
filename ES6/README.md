@@ -1,0 +1,31 @@
+# Index
+
+- Exercise-1: Compare Scopes of the var and let Keywords </br>
+- Exercise-2: Mutate an Array Declared with const </br>
+- Exercise-3: Prevent Object Mutation </br>
+- Exercise-4: Use Arrow Functions to Write Concise Anonymous Functions </br>
+- Exercise-5: Write Arrow Functions with Parameters </br>
+- Exercise-6: Set Default Parameters for Your Functions </br>
+- Exercise-7: Use the Rest Parameter with Function Parameters </br>
+- Exercise-8: Use the Spread Operator to Evaluate Arrays In-Place </br>
+- Exercise-9: Use Destructuring Assignment to Extract Values from Objects </br>
+- Exercise-10: Use Destructuring Assignment to Assign Variables from Objects </br>
+- Exercise-11: Use Destructuring Assignment to Assign Variables from Nested Objects </br>
+- Exercise-12: Use Destructuring Assignment to Assign Variables from Arrays </br>
+- Exercise-13: Use Destructuring Assignment with the Rest Parameter to Reassign Array Elements </br>
+- Exercise-14: Use Destructuring Assignment to Pass an Object as a Function's Parameters </br>
+- Exercise-15: Create Strings using Template Literals </br>
+- Exercise-16: Write Concise Object Literal Declarations Using Object Property Shorthand </br>
+- Exercise-17: Write Concise Declarative Functions with ES6 </br>
+- Exercise-18: Use class Syntax to Define a Constructor Function </br>
+- Exercise-19: Use getters and setters to Control Access to an Object </br>
+- Exercise-20: Create a Module Script </br>
+- Exercise-21: Use export to Share a Code Block </br>
+- Exercise-22: Reuse JavaScript Code Using import </br>
+- Exercise-23: Use \* to Import Everything from a File </br>
+- Exercise-24: Create an Export Fallback with export default </br>
+- Exercise-25: Import a Default Export </br>
+- Exercise-26: Create a JavaScript Promise </br>
+- Exercise-27: Complete a Promise with resolve and reject </br>
+- Exercise-28: Handle a Fulfilled Promise with then </br>
+- Exercise-29: Handle a Rejected Promise with catch </br>
