@@ -1,0 +1,35 @@
+# Index
+
+- Exercise-1: Using the Test Method
+- Exercise-2: Match Literal Strings
+- Exercise-3: Match a Literal String with Different Possibilities
+- Exercise-4: Ignore Case While Matching
+- Exercise-5: Extract Matches
+- Exercise-6: Find More Than the First Match
+- Exercise-7: Match Anything with Wildcard Period
+- Exercise-8: Match Single Character with Multiple Possibilities
+- Exercise-9: Match Letters of the Alphabet
+- Exercise-10: Match Numbers and Letters of the Alphabet
+- Exercise-11: Match Single Characters Not Specified
+- Exercise-12: Match Characters that Occur One or More Times
+- Exercise-13: Match Characters that Occur Zero or More Times
+- Exercise-14: Find Characters with Lazy Matching
+- Exercise-15: Find One or More Criminals in a Hunt
+- Exercise-16: Match Beginning String Patterns
+- Exercise-17: Match Ending String Patterns
+- Exercise-18: Match All Letters and Numbers
+- Exercise-19: Match Everything But Letters and Numbers
+- Exercise-20: Match All Numbers
+- Exercise-21: Match All Non-Numbers
+- Exercise-22: Restrict Possible Usernames
+- Exercise-23: Match Whitespace
+- Exercise-24: Match Non-Whitespace Characters
+- Exercise-25: Specify Upper and Lower Number of Matches
+- Exercise-26: Specify Only the Lower Number of Matches
+- Exercise-27: Specify Exact Number of Matches
+- Exercise-28: Check for All or None
+- Exercise-29: Positive and Negative Lookahead
+- Exercise-30: Check For Mixed Grouping of Characters
+- Exercise-31: Reuse Patterns Using Capture Groups
+- Exercise-32: Use Capture Groups to Search and Replace
+- Exercise-33: Remove Whitespace from Start and End
