@@ -1,0 +1,22 @@
+# Index
+
+- Exercise-1: Use an Array to Store a Collection of Data
+- Exercise-2: Access an Array's Contents Using Bracket Notation
+- Exercise-3: Add Items to an Array with push() and unshift()
+- Exercise-4: Remove Items from an Array with pop() and shift()
+- Exercise-5: Remove Items Using splice()
+- Exercise-6: Add Items Using splice()
+- Exercise-7: Copy Array Items Using slice()
+- Exercise-8: Copy an Array with the Spread Operator
+- Exercise-9: Combine Arrays with the Spread Operator
+- Exercise-10: Check For The Presence of an Element With indexOf()
+- Exercise-11: Iterate Through All an Array's Items Using For Loops
+- Exercise-12: Create complex multi-dimensional arrays
+- Exercise-13: Add Key-Value Pairs to JavaScript Objects
+- Exercise-14: Modify an Object Nested Within an Object
+- Exercise-15: Access Property Names with Bracket Notation
+- Exercise-16: Use the delete Keyword to Remove Object Properties
+- Exercise-17: Check if an Object has a Property
+- Exercise-18: Iterate Through the Keys of an Object with a for...in Statement
+- Exercise-19: Generate an Array of All Object Keys with Object.keys()
+- Exercise-20: Modify an Array Stored in an Object
