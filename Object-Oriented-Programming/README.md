@@ -1,0 +1,28 @@
+# Index
+
+- Exercise-1: Create a Basic JavaScript Object
+- Exercise-2: Use Dot Notation to Access the Properties of an Object
+- Exercise-3: Create a Method on an Object
+- Exercise-4: Make Code More Reusable with the this Keyword
+- Exercise-5: Define a Constructor Function
+- Exercise-6: Use a Constructor to Create Objects
+- Exercise-7: Extend Constructors to Receive Arguments
+- Exercise-8: Verify an Object's Constructor with instanceof
+- Exercise-9: Understand Own Properties
+- Exercise-10: Use Prototype Properties to Reduce Duplicate Code
+- Exercise-11: Iterate Over All Properties
+- Exercise-12: Understand the Constructor Property
+- Exercise-13: Change the Prototype to a New Object
+- Exercise-14: Remember to Set the Constructor Property when Changing the Prototype
+- Exercise-15: Understand Where an Object’s Prototype Comes From
+- Exercise-16: Understand the Prototype Chain
+- Exercise-17: Use Inheritance So You Don't Repeat Yourself
+- Exercise-18: Inherit Behaviors from a Supertype
+- Exercise-19: Set the Child's Prototype to an Instance of the Parent
+- Exercise-20: Reset an Inherited Constructor Property
+- Exercise-21: Add Methods After Inheritance
+- Exercise-22: Override Inherited Methods
+- Exercise-23: Use a Mixin to Add Common Behavior Between Unrelated Objects
+- Exercise-24: Use Closure to Protect Properties Within an Object from Being Modified Externally
+- Exercise-25: Understand the Immediately Invoked Function Expression (IIFE)
+- Exercise-26: Use an IIFE to Create a Module
