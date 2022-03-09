@@ -1,0 +1,26 @@
+# Index
+
+- Exercise-1: Learn About Functional Programming
+- Exercise-2: Understand Functional Programming Terminology
+- Exercise-3: Understand the Hazards of Using Imperative Code
+- Exercise-4: Avoid Mutations and Side Effects Using Functional Programming
+- Exercise-5: Pass Arguments to Avoid External Dependence in a Function
+- Exercise-6: Refactor Global Variables Out of Functions
+- Exercise-7: Use the map Method to Extract Data from an Array
+- Exercise-8: Implement map on a Prototype
+- Exercise-9: Use the filter Method to Extract Data from an Array
+- Exercise-10: Implement the filter Method on a Prototype
+- Exercise-11: Return Part of an Array Using the slice Method
+- Exercise-12: Remove Elements from an Array Using slice Instead of splice
+- Exercise-13: Combine Two Arrays Using the concat Method
+- Exercise-14: Add Elements to the End of an Array Using concat Instead of push
+- Exercise-15: Use the reduce Method to Analyze Data
+- Exercise-16: Use Higher-Order Functions map, filter, or reduce to Solve a Complex Problem
+- Exercise-17: Sort an Array Alphabetically using the sort Method
+- Exercise-18: Return a Sorted Array Without Changing the Original Array
+- Exercise-19: Split a String into an Array Using the split Method
+- Exercise-20: Combine an Array into a String Using the join Method
+- Exercise-21: Apply Functional Programming to Convert Strings to URL Slugs
+- Exercise-22: Use the every Method to Check that Every Element in an Array Meets a Criteria
+- Exercise-23: Use the some Method to Check that Any Elements in an Array Meet a Criteria
+- Exercise-24: Introduction to Currying and Partial Application
