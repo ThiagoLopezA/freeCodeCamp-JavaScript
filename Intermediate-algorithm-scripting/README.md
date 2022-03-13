@@ -1,0 +1,23 @@
+# Index
+
+- Exercise-1 : Sum All Numbers in a Range
+- Exercise-2 : Diff Two Arrays
+- Exercise-3 : Seek and Destroy
+- Exercise-4 : Wherefore art thou
+- Exercise-5 : Spinal Tap Case
+- Exercise-6 : Pig Latin
+- Exercise-7 : Search and Replace
+- Exercise-8 : DNA Pairing
+- Exercise-9 : Missing letters
+- Exercise-10 : Sorted Union
+- Exercise-11 : Convert HTML Entities
+- Exercise-12 : Sum All Odd Fibonacci Numbers
+- Exercise-13 : Sum All Primes
+- Exercise-14 : Smallest Common Multiple
+- Exercise-15 : Drop it
+- Exercise-16 : Steamroller
+- Exercise-17 : Binary Agents
+- Exercise-18 : Everything Be True
+- Exercise-19 : Arguments Optional
+- Exercise-20 : Make a Person
+- Exercise-21 : Map the Debris
