@@ -5,23 +5,28 @@
 // 10 - 11 numbers
 // Symbols => - ()
 
-let telephoneCheck = (str) => {
-  let arr = str.split("").filter((e) => e.match(/[()\- || 1-9]/));
+// Cases
+/*
+555-555-5555
+555 555 5555
+5555555555
+1 555 555 5555
+1 555-555-5555
+1 (555) 555-5555
+1 (555)555-5555
 
-  if (arr.length != str.length) {
-    return false;
-  } else {
-    let counter = 0;
-    arr.forEach((e) => {
-      if (e.match(/[0-9]/)) counter++;
-    });
-    if (counter >= 10 && counter <= 11) {
-      return true;
-    } else {
-      return false;
-    }
-  }
+(555)555-5555
+(555) 555-5555
+*/
+
+let telephoneCheck = (str) => {
+  let regex =
+    /(^(5|1|\()(\d{8}|\d{2}[\s-]\d{3}[\s-]\d{3}|\s\d{3}[\s-]\d{3}[\s-]\d{3}|\s\(\d{3}\)\s\d{3}\-\d{3}|\s\(\d{3}\)\d{3}\-\d{3}|\d{3}\)\s\d{3}\-\d{3}|\d{3}\)\d{3}\-\d{3}|\(\d{3}\)\d{3}\-\d{3})\d$)/gm;
+  return regex.test(str);
 };
 
-let res = telephoneCheck("11555-555-5555");
+let res = telephoneCheck("1 555-555-5555");
 console.log(res);
+
+// If you want to make it faster, https://regex101.com/r/iK1jY6/3
+// U can see while you are writing the regex if you are matching the str
